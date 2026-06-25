@@ -10,3 +10,24 @@ Os Firewalls Fortinet podem trabalhar com filtros de conteúdo, assim as organiz
 - Filtro para Web - O mais comum, bloqueia páginas ou sites inteiros.
 
 Informações Complementares: https://www.fortinet.com/resources/cyberglossary/content-filtering
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+WIFI
+
+Vantagem - Mobilidade - Você pode acessar de diferentes locais desde que dentro do alcance do sinal.
+
+Desvantagem - Segurança - Qualquer pessoa dentro do alcance da rede consegue ter o acesso a ela se não existir bloqueios para protege-la. Diferente da rede cabeada, onde você precisa de um acesso físico direto para se conectar.
+
+Protocolos de Segurança Wifi
+
+- WEP - Wired Equivalent Privacy - Primeiro padrão de segurança para redes sem fio, 1999 - Possui muitas vulnerabilidades.
+- WPA 2 - Wifi Protected Access  - 2004 - Usa o algoritmo AES para criptografia - padrão de segurança sem fio 802.11i
+- WPA 3 - Wifi Protected Access - 2018 - Handshake mais seguro, protege contra ataques de força bruta,
+
+Curiosidade: WAP 1 foi lançado em 2003, mas embora fosse melhor do que o WEP, ele também possuía vulnerabilidades. Foi trocado em 2004 com o lançamento do WAP 2.
+
+Glossário:  AES - Advanced Encryption Standard - É uma cifra que protege informações confidenciais, possuí três comprimentos de chave diferentes para criptografar e descriptografar um bloco de mensagens: 128 bits, 192 bits e 256 bits.
+
+Informações Complementares: https://www.fortinet.com/br/resources/cyberglossary/wireless-security-tips
+                            https://www.fortinet.com/br/resources/cyberglossary/encryption
