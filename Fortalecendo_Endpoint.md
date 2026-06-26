@@ -1,8 +1,8 @@
-### Hardening Endpoints  
+# Hardening Endpoints  
 
 Abaixo estão 4 tópicos e formas de deixar o seu endpoint mais protegido.  
 
-# Controles Administrativos
+### Controles Administrativos
 
 - Senhas - Muitas vezes são a primeira barreira de defesa, as recomendações envolvem o uso de senhas grandes, que mistura letras maiúsculas e minúsculas, números e símbolos. Além de serem trocadas de tempo em tempo
 
@@ -10,7 +10,7 @@ Abaixo estão 4 tópicos e formas de deixar o seu endpoint mais protegido.
 
 - Princípio de Privilegio Mínimo - Principle of Least Privilegio (PoLP) - É você dar ao usuário ou processo apenas as permissões necessárias para realizar a sua função e nada além disso. Uma pessoa do marketing não precisa ter acesso a dados do RH, por exemplo.  
 
-# Proteção de Endpoint Local  
+### Proteção de Endpoint Local  
 
 - OS and Startup Hardening - É um conjunto de técnicas de "endurecimento" e segurança aplicadas ao sistema operacional (FortiOS) e ao processo de inicialização (boot) dos dispositivos, como os firewalls. Como exemplo você pode configurar os logs, backup, realizar pentests, monitorar vulnerabilidades, entre outros..
 
@@ -21,7 +21,7 @@ Abaixo estão 4 tópicos e formas de deixar o seu endpoint mais protegido.
 - Data Loss Prevention (DLP) - Previne que dados da empresa sejam vazados para fora, ele 
 permite que as empresas detectem a perda de dados, bem como evitem a transferência não autorizadas de dados para fora da organização e a destruição indesejada de dados confidenciais ou pessoalmente identificáveis (PII).  
 
-# Manutenção de Endpoints  
+### Manutenção de Endpoints  
 
 - Auto-updates / Patching - Automação de atualização, pois elas trazem novas correções de vulnerabilidades.
 
@@ -29,7 +29,7 @@ permite que as empresas detectem a perda de dados, bem como evitem a transferên
 
 - Backup - É importante para casos em que ocorra a perda de dados por diversos motivos, mantendo a rápida recuperação e disponibilidade de um serviço. Ajuda em casos de ataques de ransomware.  
 
-# Monitoramento de Endpoints  
+### Monitoramento de Endpoints  
 
 - Endpoint Protection Platform (EPP) - Previne que ameaças consigam infectar um dispositivo. Exemplos incluem FortiClient, FortiXDR e FortiEDR. Um EPP pode realizar o bloqueio de algo suspeito.
 
