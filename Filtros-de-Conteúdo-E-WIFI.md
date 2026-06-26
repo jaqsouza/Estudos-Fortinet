@@ -26,7 +26,7 @@ Protocolos de Segurança Wifi
 - **WPA 3 - Wifi Protected Access** - 2018 - Handshake mais seguro, protege contra ataques de força bruta.  
 
 > [!TIP]
-> WAP 1 foi lançado em 2003, mas embora fosse melhor do que o WEP, ele também possuía vulnerabilidades. Foi trocado em 2004 com o lançamento do WAP 2.
+> WPA 1 foi lançado em 2003, mas embora fosse melhor do que o WEP, ele também possuía vulnerabilidades. Foi trocado em 2004 com o lançamento do WAP 2.
 
 Glossário:  AES - Advanced Encryption Standard - É uma cifra que protege informações confidenciais, possuí três comprimentos de chave diferentes para criptografar e descriptografar um bloco de mensagens: 128 bits, 192 bits e 256 bits.
 
