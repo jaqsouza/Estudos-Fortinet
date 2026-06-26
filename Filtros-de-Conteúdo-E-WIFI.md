@@ -1,6 +1,6 @@
 # Anotações
 
-FILTROS DE CONTEÚDO
+### Filtros de Conteúdo
 
 Os Firewalls Fortinet podem trabalhar com filtros de conteúdo, assim as organizações conseguem controlar o que seus funcionários acessam, dessa forma reforçam a segurança contra conteúdos possivelmente prejudiciais. São eles:
 
@@ -9,11 +9,11 @@ Os Firewalls Fortinet podem trabalhar com filtros de conteúdo, assim as organiz
 - Filtro DNS - Bloqueia domínios que não se enquadram nas políticas definidas pela organização.
 - Filtro para Web - O mais comum, bloqueia páginas ou sites inteiros.
 
-Informações Complementares: https://www.fortinet.com/resources/cyberglossary/content-filtering
+Informações Complementares: [content-filtering](https://www.fortinet.com/resources/cyberglossary/content-filtering)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-WIFI
+### Wifi
 
 Vantagem - Mobilidade - Você pode acessar de diferentes locais desde que dentro do alcance do sinal.
 
@@ -29,5 +29,4 @@ Curiosidade: WAP 1 foi lançado em 2003, mas embora fosse melhor do que o WEP, e
 
 Glossário:  AES - Advanced Encryption Standard - É uma cifra que protege informações confidenciais, possuí três comprimentos de chave diferentes para criptografar e descriptografar um bloco de mensagens: 128 bits, 192 bits e 256 bits.
 
-Informações Complementares: https://www.fortinet.com/br/resources/cyberglossary/wireless-security-tips
-                            https://www.fortinet.com/br/resources/cyberglossary/encryption
+Informações Complementares: [wireless-security-tips](https://www.fortinet.com/br/resources/cyberglossary/wireless-security-tips), [encryption](https://www.fortinet.com/br/resources/cyberglossary/encryption)
